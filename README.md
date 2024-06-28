@@ -1,5 +1,5 @@
 # Aplicação Java 1 - Cadastro de Cliente
-Primeiro do total de quatro projetos, em java, desenvolvidos durantes as aulas de Linguagem de Programação I
+Primeiro do total de quatro projetos, em java, com integração com banco de dados PostgreSQL, desenvolvidos durantes as aulas de Linguagem de Programação I
 
 ## Tela Inicial Cadastro
 ![image](https://github.com/LeonardoSanga/Aplica-oJava01_CadastroCliente/assets/100099053/7515dd1b-ac6e-46f9-8d55-7da7af8acb44)
